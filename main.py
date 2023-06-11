@@ -1,5 +1,4 @@
 import requests
-
 import json
 
 # Set up login credentials
